@@ -1,4 +1,4 @@
-**SyncServer**
+# MP-SyncServer
 
 SyncServer is an additional automation tool where you can manage time-controlled updates of some plugin databases and synchronization events on your Mediaportal server . 
 Running SyncServer is not essential to benefit of the SyncClient features!
@@ -8,7 +8,7 @@ Before you run first time the SyncServer you have to execute "psshutdown.exe" an
 
 In order to get a positive result you should before grabbing informations with Syncserver, put in each movie-folder following informations cover, backdrop & nfo. Please consider that the filename-pattern has to be entered in movingpictures settings!
 
-# Configuration window
+## Configuration window
 
 ### Settings tab
 
